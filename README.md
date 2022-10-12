@@ -3,10 +3,9 @@
 **Sobre mim**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="filter: hue-rotate(20deg)"
-min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+min-width="400px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-
 
 Graduado em Engenharia Mecatrônica pela Universidade Tiradentes em Aracaju - SE. Com cursos nas áreas de <strong>Python</strong> e <strong>JavaScript</strong>.</br>
 Experiência de dois anos em python e um ano em <strong>NextJS</strong>, <strong>ReactJS</strong>, além de desenvolvimento de software embarcado e <strong>visão computacional</strong>.<br/>Minha primeira experiência em desenvolvimento de software foi enquanto microempreendedor individual, utilizando Python e C++ para construir sistemas de inspeção de qualidade onde pude instalar dois deles na cervejaria <a href="https://www.ambev.com.br"> <strong>ambev</strong></a>. 
@@ -14,56 +13,47 @@ Experiência de dois anos em python e um ano em <strong>NextJS</strong>, <strong
 Atualmente atuo como freelancer desenvolvendo ferramentas web e projetos IoT.
 
 <br/>
+<br/>
 
-**Aplicações**
 
-<div style="display:inline_block;
-    -webkit-touch-callout: none; /* iOS Safari */
-    -webkit-user-select: none; /* Safari */
-    -khtml-user-select: none; /* Konqueror HTML */
-    -moz-user-select: none; /* Old versions of Firefox */
-    -ms-user-select: none; /* Internet Explorer/Edge */
-    -user-select: none; /* Non-prefixed ">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="RN" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>                                              
-</div> 
- 
+**Ferramentas**
+
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 </br>
 
 **Utilidades**
 
 <div style="display:inline_block">
   <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-333333?style=for-the-badge&logo=insomnia&logoColor=white"/>
-
-  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white"/>
 </div>
+</br>
 
 </br>
 
 **DevOps**
 
-<div style="display:inline_block">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white"/>
-
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </br>
 
 **Ferramentas de Desenvolvimento**
 
-<div style="display:inline_block">
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC"/>
-
-  <img align="center" alt="trello" src="https://img.shields.io/badge/trello-333333?style=for-the-badge&logo=trello&logoColor=007ACCe"/>
-
-  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC"/>
-</div>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <br/>
 
