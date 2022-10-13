@@ -8,7 +8,7 @@ min-width="400px" max-width="250px" width="250px" align="right" alt="Computador 
 <p align="left">
 
 Graduado em Engenharia Mecatrônica pela Universidade Tiradentes em Aracaju - SE. Com cursos nas áreas de <strong>Python</strong> e <strong>JavaScript</strong>.</br>
-Experiência de dois anos em python e um ano em <strong>NextJS</strong>, <strong>ReactJS</strong>, além de desenvolvimento de software embarcado e <strong>visão computacional</strong>.<br/>Minha primeira experiência em desenvolvimento de software foi enquanto microempreendedor individual, utilizando Python e C++ para construir sistemas de inspeção de qualidade onde pude instalar dois deles na cervejaria <a href="https://www.ambev.com.br"> <strong>ambev</strong></a>. 
+Experiência de dois anos em python e um ano em <strong>NextJS</strong>, <strong>ReactJS</strong>, além de desenvolvimento de software embarcado e <strong>visão computacional</strong>.<br/>Minha primeira experiência em desenvolvimento de software foi enquanto microempreendedor individual, utilizando Python e C++ para construir sistemas de inspeção de qualidade onde pude instalar dois destes projetos na cervejaria <a href="https://www.ambev.com.br"> <strong>ambev</strong></a>. 
 </br>
 Atualmente atuo como freelancer desenvolvendo ferramentas web e projetos IoT.
 
