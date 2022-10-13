@@ -2,7 +2,7 @@
 
 **Sobre mim**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="filter: hue-rotate(20deg)"
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="filter: hue-rotate(120deg)"
 min-width="400px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 <p align="left">
