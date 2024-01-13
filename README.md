@@ -10,7 +10,7 @@ min-width="400px" max-width="250px" width="250px" align="right" alt="Computador 
 Graduado em Engenharia Mecatrônica pela Universidade Tiradentes em Aracaju - SE. Com cursos nas áreas de <strong>Python</strong> e <strong>JavaScript</strong>.</br>
 Experiência de dois anos em python e um ano em <strong>NextJS</strong>, <strong>ReactJS</strong>, além de desenvolvimento de software embarcado e <strong>visão computacional</strong>.</br>
 
-Atualmente trabalho na TPC Logística Inteligente como analista de desenvolvimento de sistemas, entregando soluções de RPA, webApps e machine learning nos centros de distribuição da Natura no Brasil.
+Atualmente trabalho na TPC Logística Inteligente como analista de desenvolvimento de sistemas, entregando soluções de RPA, webApps e machine learning nos centros de distribuição da Natura &Co no Brasil.
 
 <br/>
 <br/>
