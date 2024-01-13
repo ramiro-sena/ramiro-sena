@@ -8,9 +8,9 @@ min-width="400px" max-width="250px" width="250px" align="right" alt="Computador 
 <p align="left">
 
 Graduado em Engenharia Mecatrônica pela Universidade Tiradentes em Aracaju - SE. Com cursos nas áreas de <strong>Python</strong> e <strong>JavaScript</strong>.</br>
-Experiência de dois anos em python e um ano em <strong>NextJS</strong>, <strong>ReactJS</strong>, além de desenvolvimento de software embarcado e <strong>visão computacional</strong>.<br/>Minha primeira experiência em desenvolvimento de software foi enquanto microempreendedor individual, utilizando Python e C++ para construir sistemas de inspeção de qualidade onde pude instalar dois destes projetos na cervejaria <a href="https://www.ambev.com.br"> <strong>ambev</strong></a>. 
-</br>
-Atualmente estou cursando desenvolvimento web na Trybe e faço freelancer.
+Experiência de dois anos em python e um ano em <strong>NextJS</strong>, <strong>ReactJS</strong>, além de desenvolvimento de software embarcado e <strong>visão computacional</strong>.</br>
+
+Atualmente trabalho na TPC Logística Inteligente como analista de desenvolvimento de sistemas, entregando soluções de RPA, webApps e machine learning nos centros de distribuição da Natura no Brasil.
 
 <br/>
 <br/>
